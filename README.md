@@ -1,2 +1,1 @@
-# report
-To create a open source web application for reporting tasks
+WTR refers to Work Tracker Report Application
